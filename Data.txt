@@ -1,0 +1,25 @@
+Boiler Load
+
+Inlet NOx
+
+Inlet O₂
+
+Flue Gas Flow
+
+Ammonia (NH₃) Flow
+
+Flue Gas Temperature
+
+Coal Feed Rate
+
+target was: NOx Emission (mg/m³)
+
+We also engineered key features like:
+
+Efficiency (%) = NOx reduction percentage
+
+NOx_per_NH3 = Ammonia usage efficiency
+
+Load_per_Coal = Energy efficiency indicator
+
+NOx_Diff = Inlet NOx – Emission"

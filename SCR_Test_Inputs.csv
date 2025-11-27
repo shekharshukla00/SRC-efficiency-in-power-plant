@@ -1,0 +1,7 @@
+Boiler Load (MW),Inlet NOx (mg/m³),Inlet O₂ (%),Flue Gas Flow (m³/h),NH₃ Flow (kg/h),Flue Gas Temp (°C),Coal Feed Rate (t/h),Case
+740.0,310.0,4.3,68.5,4.2,358.0,1350.0,✅ Normal
+700.0,340.0,4.5,67.0,4.0,360.0,1300.0,⚠️ High NH₃ usage
+750.0,320.0,4.4,70.0,4.1,355.0,1320.0,🔻 Low Efficiency
+695.0,330.0,4.6,66.5,3.9,357.0,1270.0,🛠 Both Triggers
+770.0,300.0,4.2,69.5,4.3,359.0,1400.0,✅ High Efficiency
+680.0,270.0,4.1,66.8,3.6,352.0,1250.0,✅ Low Load/Idle
